@@ -1,0 +1,6 @@
+Functional requirements:
+
+1. The user should be able to search for contacts.
+2. The user should be able to add/ update and delete contacts.
+3. The user should be able to merge duplicate contacts.
+4. The application should allow the omission of phone numbers and email addresses since they are not required. 
